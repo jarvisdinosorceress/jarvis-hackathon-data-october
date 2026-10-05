@@ -1,2 +1,2 @@
 # jarvis-hackathon-data-october
-Data for Oct Hackathon participants
+Data files for the Jarvis Talent Incubation Hackathon. Download both CSVs to get started
