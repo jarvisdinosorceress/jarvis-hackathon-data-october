@@ -84,11 +84,11 @@ Each team will deliver a presentation and demonstration at the end of the day. E
 Every team member must participate in the presentation.
 
 ### Suggested Topics
-•	Understanding of the problem
-•	Solution design
-•	Key technical decisions
-•	Challenges encountered
-•	Future improvement
+- Understanding of the problem
+- Solution design
+- Key technical decisions
+- Challenges encountered
+- Future improvement
 
 ### Success Criteria
 A successful team does not necessarily build the most features.
